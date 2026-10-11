@@ -1,0 +1,1 @@
+text      fastapi      uvicorn      openai      httpx
