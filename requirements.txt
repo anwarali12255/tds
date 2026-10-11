@@ -1,1 +1,4 @@
-text      fastapi      uvicorn      openai      httpx
+fastapi
+uvicorn
+openai
+httpx
